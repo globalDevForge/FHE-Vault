@@ -1,8 +1,8 @@
 export const TOKEN_DECIMALS = 6;
 export const MAX_UINT64 = 18446744073709551615n;
 
-export const FUSDT_ADDRESS = '0x5FbDB2315678afecb367f032d93F642f64180aa3' as const;
-export const FHE_VAULT_ADDRESS = '0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512' as const;
+export const FUSDT_ADDRESS = '0x87155c6Acc1668e4cf7bF890d5D83Cc8c62e85e5' as const;
+export const FHE_VAULT_ADDRESS = '0xB3B7d3F93D6fCAF07c04605cd78D5C321647c273' as const;
 
 export const FUSDT_ABI = [
   {
